@@ -1,0 +1,41 @@
+/*selector {
+	Property: value;
+}*/
+
+.big {
+	padding-top: 15.5rem;
+}
+body {
+	 background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+	color: red;
+	cursor: none;
+	padding-left: 
+	}
+
+li {
+	list-style: none;
+	display: inline ;
+}
+
+
+a {
+	color: white;
+	padding-right: 20px;
+	padding-left : 20px;
+}
+
+a:active {
+  color: red;
+  cursor: wait;
+}
+
+a:hover {
+	color: white;
+}
